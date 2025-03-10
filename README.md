@@ -28,6 +28,8 @@ Commit Changes: Use git commit -m "Your commit message" to create a snapshot. Re
 Push Changes: Use git push origin main (or git push origin <your branch name>) to send your commit to your GitHub repository.
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
+Branching in Git allows developers to create independent lines of development within a repository. Each branch represents a separate version of the code, enabling multiple developers to work on different features, bug fixes, or experiments without interfering with the main project
+
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
